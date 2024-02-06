@@ -1,0 +1,1 @@
+https://huggingface.co/datasets/JEFFREY-VERDIERE/Creditcard/resolve/feac26da102fcef433202e29a528e3bfb6a62a04/creditcard.csv
